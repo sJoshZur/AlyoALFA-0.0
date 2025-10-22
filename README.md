@@ -106,3 +106,7 @@ Jhon Eduardo Titiboco Salazar
 Este proyecto se distribuye únicamente con fines educativos.  
 No se permite su uso comercial sin la autorización del autor.
 
+
+** NOTA **
+Dentro del archivo winrar esta el ejecutable del juego
+
