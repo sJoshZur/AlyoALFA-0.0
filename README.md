@@ -17,16 +17,16 @@ Fomentar el aprendizaje de la historia de Bolivia a través de un videojuego edu
 
 Guerra.2.0/
 │
-├── datafiles/ # Archivos de datos adicionales (audios, textos, etc.)
-├── fonts/ # Fuentes utilizadas en la interfaz del juego
-├── objects/ # Objetos programados (jugador, cuadro de audio, preguntas)
-├── options/ # Configuración del proyecto GameMaker
-├── rooms/ # Escenarios del juego (inicio, cuestionario, resultado)
-├── scripts/ # Código GML que maneja la lógica del juego
-├── sprites/ # Imágenes y animaciones de los personajes y entorno
-├── tilesets/ # Texturas y elementos visuales del entorno
-├── Guerra.2.0.yyp # Archivo principal del proyecto GameMaker
-└── Guerra.2.0.resource_order # Orden de recursos
+  ─ datafiles/ # Archivos de datos adicionales (audios, textos, etc.)
+  ─ fonts/ # Fuentes utilizadas en la interfaz del juego
+  ─ objects/ # Objetos programados (jugador, cuadro de audio, preguntas)
+  ─ options/ # Configuración del proyecto GameMaker
+  ─ rooms/ # Escenarios del juego (inicio, cuestionario, resultado)
+  ─ scripts/ # Código GML que maneja la lógica del juego
+  ─ sprites/ # Imágenes y animaciones de los personajes y entorno
+  ─ tilesets/ # Texturas y elementos visuales del entorno
+  ─ Guerra.2.0.yyp # Archivo principal del proyecto GameMaker
+  ─ Guerra.2.0.resource_order # Orden de recursos
 
 
 ---
